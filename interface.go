@@ -1,12 +1,12 @@
 package doudian_sdk
 
 import (
-	"doudian_sdk/aftersale"
-	"doudian_sdk/logistics"
-	"doudian_sdk/order"
-	"doudian_sdk/product"
-	"doudian_sdk/product/sku"
-	"doudian_sdk/product/spec"
+	"github.com/lcxking/doudian_sdk/aftersale"
+	"github.com/lcxking/doudian_sdk/logistics"
+	"github.com/lcxking/doudian_sdk/order"
+	"github.com/lcxking/doudian_sdk/product"
+	"github.com/lcxking/doudian_sdk/product/sku"
+	"github.com/lcxking/doudian_sdk/product/spec"
 	"github.com/lcxking/doudian_sdk/unit"
 )
 
