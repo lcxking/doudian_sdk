@@ -7,7 +7,7 @@ import (
 	"doudian_sdk/product"
 	"doudian_sdk/product/sku"
 	"doudian_sdk/product/spec"
-	"doudian_sdk/unit"
+	"github.com/lcxking/doudian_sdk/unit"
 )
 
 // 以下接口 shop_sdk_douyin.App 都已经实现

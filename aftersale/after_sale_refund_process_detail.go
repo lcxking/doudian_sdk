@@ -2,7 +2,7 @@ package aftersale
 
 import (
 	"doudian_sdk/order"
-	"doudian_sdk/unit"
+	"github.com/lcxking/doudian_sdk/unit"
 )
 
 type ResponseAfterSaleRefundProcessDetail struct {

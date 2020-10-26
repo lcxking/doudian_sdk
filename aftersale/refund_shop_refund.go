@@ -1,7 +1,7 @@
 package aftersale
 
 import (
-	"doudian_sdk/unit"
+	"github.com/lcxking/doudian_sdk/unit"
 )
 
 // ArgRefundShopRefund RefundShopRefund方法的参数

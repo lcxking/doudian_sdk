@@ -1,6 +1,6 @@
 package product
 
-import "doudian_sdk/unit"
+import "github.com/lcxking/doudian_sdk/unit"
 
 // ResponseCategory ProductCategory方法的响应结果
 type ResponseCategory struct {

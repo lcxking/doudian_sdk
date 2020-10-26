@@ -1,6 +1,6 @@
 package logistics
 
-import "doudian_sdk/unit"
+import "github.com/lcxking/doudian_sdk/unit"
 
 // ResponseLogisticsCompanyList OrderLogisticsCompanyList方法的响应结果
 type ResponseLogisticsCompanyList []Company

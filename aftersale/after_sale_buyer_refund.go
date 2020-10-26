@@ -1,6 +1,6 @@
 package aftersale
 
-import "doudian_sdk/unit"
+import "github.com/lcxking/doudian_sdk/unit"
 
 type ArgAfterSaleBuyerRefund struct {
 	OrderID  unit.OrderID `paramName:"order_id"`

@@ -2,7 +2,7 @@ package spec
 
 import (
 	"doudian_sdk/product/sku"
-	"doudian_sdk/unit"
+	"github.com/lcxking/doudian_sdk/unit"
 )
 
 // 规格关系

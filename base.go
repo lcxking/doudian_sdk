@@ -2,11 +2,11 @@ package doudian_sdk
 
 import (
 	"crypto/md5"
-	"doudian_sdk/unit"
 	"encoding/hex"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/lcxking/doudian_sdk/unit"
 	"github.com/mitchellh/mapstructure"
 	"net/http"
 	"net/url"

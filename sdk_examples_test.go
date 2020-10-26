@@ -6,7 +6,7 @@ import (
 	"doudian_sdk/product"
 	"doudian_sdk/product/sku"
 	"doudian_sdk/product/spec"
-	"doudian_sdk/unit"
+	"github.com/lcxking/doudian_sdk/unit"
 	"sync"
 	"testing"
 	"time"

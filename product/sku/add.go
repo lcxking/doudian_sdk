@@ -1,8 +1,8 @@
 package sku
 
 import (
-	"doudian_sdk/unit"
 	"errors"
+	"github.com/lcxking/doudian_sdk/unit"
 	"log"
 	"strconv"
 	"strings"
