@@ -1,8 +1,8 @@
 package aftersale
 
 import (
-	"github.com/cgghui/shop_sdk_douyin/order"
-	"github.com/cgghui/shop_sdk_douyin/unit"
+	"doudian_sdk/order"
+	"doudian_sdk/unit"
 )
 
 type ResponseAfterSaleRefundProcessDetail struct {

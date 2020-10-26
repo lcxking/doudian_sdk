@@ -1,8 +1,8 @@
 package sku
 
 import (
+	"doudian_sdk/unit"
 	"errors"
-	"github.com/cgghui/shop_sdk_douyin/unit"
 	"log"
 	"strconv"
 	"strings"

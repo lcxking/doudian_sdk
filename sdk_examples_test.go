@@ -1,12 +1,12 @@
-package shop_sdk_douyin
+package doudian_sdk
 
 import (
-	"github.com/cgghui/shop_sdk_douyin/aftersale"
-	"github.com/cgghui/shop_sdk_douyin/order"
-	"github.com/cgghui/shop_sdk_douyin/product"
-	"github.com/cgghui/shop_sdk_douyin/product/sku"
-	"github.com/cgghui/shop_sdk_douyin/product/spec"
-	"github.com/cgghui/shop_sdk_douyin/unit"
+	"doudian_sdk/aftersale"
+	"doudian_sdk/order"
+	"doudian_sdk/product"
+	"doudian_sdk/product/sku"
+	"doudian_sdk/product/spec"
+	"doudian_sdk/unit"
 	"sync"
 	"testing"
 	"time"

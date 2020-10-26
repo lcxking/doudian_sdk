@@ -13,8 +13,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/cgghui/shop_sdk_douyin"
-	"github.com/cgghui/shop_sdk_douyin/product/spec"
+	"github.com/lcxking/doudian_sdk"
+	"github.com/lcxking/doudian_sdk/product/spec"
 )
 
 func main() {
@@ -24,10 +24,10 @@ func main() {
 		secret = "25dd8e74-******a90d3bd"
 	)
 
-	var app = shop_sdk_douyin.NewBaseApp(key, secret).NewAccessTokenMust()
+	var app = doudian_sdk.NewBaseApp(key, secret).NewAccessTokenMust()
 
 	// 按商品模块取得方法集
-	product := shop_sdk_douyin.GetProduct(app)
+	product := doudian_sdk.GetProduct(app)
 
 	// 构建参数
 	arg := spec.SpecAddArg{Name: "规格参数一"}

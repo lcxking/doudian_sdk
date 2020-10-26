@@ -1,10 +1,10 @@
 package product
 
 import (
+	"doudian_sdk/product/spec"
+	"doudian_sdk/unit"
 	"errors"
 	"fmt"
-	"github.com/cgghui/shop_sdk_douyin/product/spec"
-	"github.com/cgghui/shop_sdk_douyin/unit"
 	"strconv"
 	"strings"
 	"time"

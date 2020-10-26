@@ -1,6 +1,6 @@
 package spec
 
-import "github.com/cgghui/shop_sdk_douyin/unit"
+import "doudian_sdk/unit"
 
 // ResponseList SpecList方法的响应结果
 type ResponseList struct {

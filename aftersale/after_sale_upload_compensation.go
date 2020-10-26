@@ -1,6 +1,6 @@
 package aftersale
 
-import "github.com/cgghui/shop_sdk_douyin/unit"
+import "doudian_sdk/unit"
 
 type ArgAfterSaleUploadCompensation struct {
 	OrderID  unit.OrderID `paramName:"order_id"` // 子订单ID

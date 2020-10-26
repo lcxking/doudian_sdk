@@ -1,7 +1,7 @@
 package sku
 
 import (
-	"github.com/cgghui/shop_sdk_douyin/unit"
+	"doudian_sdk/unit"
 )
 
 // ResponseList SkuList方法的响应结果

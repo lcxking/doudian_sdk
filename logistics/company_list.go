@@ -1,6 +1,6 @@
 package logistics
 
-import "github.com/cgghui/shop_sdk_douyin/unit"
+import "doudian_sdk/unit"
 
 // ResponseLogisticsCompanyList OrderLogisticsCompanyList方法的响应结果
 type ResponseLogisticsCompanyList []Company

@@ -1,6 +1,6 @@
 package product
 
-import "github.com/cgghui/shop_sdk_douyin/unit"
+import "doudian_sdk/unit"
 
 // ResponseCategory ProductCateProperty方法的响应结果
 type ResponseCateProperty struct {

@@ -1,8 +1,8 @@
 package spec
 
 import (
-	"github.com/cgghui/shop_sdk_douyin/product/sku"
-	"github.com/cgghui/shop_sdk_douyin/unit"
+	"doudian_sdk/product/sku"
+	"doudian_sdk/unit"
 )
 
 // 规格关系

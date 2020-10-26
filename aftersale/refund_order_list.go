@@ -1,7 +1,7 @@
 package aftersale
 
 import (
-	"github.com/cgghui/shop_sdk_douyin/unit"
+	"doudian_sdk/unit"
 	"reflect"
 	"time"
 )

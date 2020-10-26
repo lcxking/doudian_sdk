@@ -1,12 +1,12 @@
-package shop_sdk_douyin
+package doudian_sdk
 
 import (
 	"crypto/md5"
+	"doudian_sdk/unit"
 	"encoding/hex"
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/cgghui/shop_sdk_douyin/unit"
 	"github.com/mitchellh/mapstructure"
 	"net/http"
 	"net/url"

@@ -1,4 +1,4 @@
-module github.com/cgghui/shop_sdk_douyin
+module github.com/lcxking/doudian_sdk
 
 go 1.15
 

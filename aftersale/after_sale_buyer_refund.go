@@ -1,6 +1,6 @@
 package aftersale
 
-import "github.com/cgghui/shop_sdk_douyin/unit"
+import "doudian_sdk/unit"
 
 type ArgAfterSaleBuyerRefund struct {
 	OrderID  unit.OrderID `paramName:"order_id"`

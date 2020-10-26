@@ -1,6 +1,6 @@
 package sku
 
-import "github.com/cgghui/shop_sdk_douyin/unit"
+import "doudian_sdk/unit"
 
 // ResponseDetail SkuDetail的响应结果
 type ResponseDetail struct {

@@ -1,8 +1,8 @@
 package spec
 
 import (
+	"doudian_sdk/unit"
 	"errors"
-	"github.com/cgghui/shop_sdk_douyin/unit"
 	"strings"
 )
 

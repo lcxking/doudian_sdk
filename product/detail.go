@@ -1,8 +1,8 @@
 package product
 
 import (
-	"github.com/cgghui/shop_sdk_douyin/product/spec"
-	"github.com/cgghui/shop_sdk_douyin/unit"
+	"doudian_sdk/product/spec"
+	"doudian_sdk/unit"
 )
 
 // ResponseDetail ProductDetail方法的响应结果
