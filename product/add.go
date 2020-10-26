@@ -1,9 +1,9 @@
 package product
 
 import (
-	"doudian_sdk/product/spec"
 	"errors"
 	"fmt"
+	"github.com/lcxking/doudian_sdk/product/spec"
 	"github.com/lcxking/doudian_sdk/unit"
 	"strconv"
 	"strings"

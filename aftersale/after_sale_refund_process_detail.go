@@ -1,7 +1,7 @@
 package aftersale
 
 import (
-	"doudian_sdk/order"
+	"github.com/lcxking/doudian_sdk/order"
 	"github.com/lcxking/doudian_sdk/unit"
 )
 

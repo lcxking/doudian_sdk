@@ -1,7 +1,7 @@
 package product
 
 import (
-	"doudian_sdk/product/spec"
+	"github.com/lcxking/doudian_sdk/product/spec"
 	"github.com/lcxking/doudian_sdk/unit"
 )
 
